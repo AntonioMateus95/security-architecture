@@ -1,5 +1,4 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;&lt;Ataque>> Acesso remoto à máquina do usuário"
-    id="id-c97d01662e934e24ad318a157da4ea47"
-    documentation="Se o usuário tiver permissões de admin, o ataque pode se expandir para outras máquinas"/>
+    name="Evento de Perda (ataque)"
+    id="id-c97d01662e934e24ad318a157da4ea47"/>
